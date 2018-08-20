@@ -1,0 +1,2 @@
+#liczba odrzuconych zgloszen przez kanal 1
+#czas	#liczbaZgloszen odrzuconych

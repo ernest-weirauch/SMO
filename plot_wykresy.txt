@@ -1,0 +1,22 @@
+#ustawienia poczatkowe (*tics start,skok,max)
+set xtics 0,1,10
+set xtics 0,1,10
+set xlabel "czas"                                        
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres0.txt" with points title "pojawianie sie zgloszen w systemie"
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres1.txt" with steps title "dlugosc kolejki w czasie"
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres2.txt" with lines title "zajetosc kanalu"
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres3.txt" with lines title "srednia liczba zgloszen przybylych na jednostke czasu"
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres4.txt" with steps title "liczba obsluzonych zgloszen przez kanal 1"
+
+
+plot "D:/Dysk Google/NetBeansProjects/SMB_SMO_popr/wykres5.txt" with steps title "liczba odrzuconych zgloszen przez kanal 1"
